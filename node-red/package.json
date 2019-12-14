@@ -38,7 +38,7 @@
         "node-red-node-random": "0.1.2",
         "node-red-node-serialport": "0.6.8",
         "node-red-node-smooth": "0.1.0",
-        "node-red-node-suncalc": "0.0.11"
+        "node-red-node-suncalc": "0.0.12"
     },
     "engines": {
         "node": "4.*.*"
